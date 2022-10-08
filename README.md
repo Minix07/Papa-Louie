@@ -4,4 +4,4 @@
 3. Once pasted click on next then save
 4. You should see a play button when it finishes loding 
 5. Feel Free to resize and move the window
-6. Preview and enojoy Papa Louie: When Pizzas Attack :D
+6. Preview and enjoy Papa Louie: When Pizzas Attack :D
